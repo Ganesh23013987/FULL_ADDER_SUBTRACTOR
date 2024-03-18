@@ -50,6 +50,7 @@ Developed by: GANESH.D
 
 RegisterNumber: 212223240035
 */
+
 **FULL_ADDER**
 ```
 module full_adder(a,b,cin,sum,carry);
