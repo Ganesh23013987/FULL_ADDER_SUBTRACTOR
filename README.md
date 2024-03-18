@@ -80,10 +80,13 @@ endmodule
 **RTL Schematic**
 
 **Full_adder**
-<img width="293" alt="full_adder input" src="https://github.com/Ganesh23013987/FULL_ADDER_SUBTRACTOR/assets/147473768/90992a70-2145-4110-b27a-b22eba342a60">
+
+<img width="781" alt="full_adder circuit dia" src="https://github.com/Ganesh23013987/FULL_ADDER_SUBTRACTOR/assets/147473768/5371de9d-9d9d-4c53-943c-18efc64b94fc">
 
 **Full_subtracter**
-<img width="324" alt="full_subtracter input" src="https://github.com/Ganesh23013987/FULL_ADDER_SUBTRACTOR/assets/147473768/bbf40f33-2319-48d8-94cf-1a995b7da451">
+
+<img width="838" alt="full_subtracter circuit dia" src="https://github.com/Ganesh23013987/FULL_ADDER_SUBTRACTOR/assets/147473768/6d6be52a-5b94-4543-b328-61f9e54a7066">
+
 
 **Output Timing Waveform**
 
